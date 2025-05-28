@@ -88,7 +88,9 @@ To design and maintain **resilient, automated, and AI-observable** cloud archite
 
 | Project | Description |
 |--------|-------------|
-| [Terraform EC2 NGINX Free Tier](https://github.com/alpercevizz/terraform-ec2-nginx-free-tier) | A fully-automated AWS EC2 deployment using Terraform with NGINX running on port 8080 (Free Tier optimized) |
+| [terraform-ec2-nginx-free-tier](https://github.com/alpercevizz/terraform-ec2-nginx-free-tier) | Provisioned an EC2 instance on AWS using Terraform, with NGINX automatically installed on port 8080. Fully optimized for AWS Free Tier and beginner-friendly. |
+| [disk-usage-control](https://github.com/alpercevizz/disk-usage-control) | Real-time disk usage monitoring tool built in Python. Includes email alerts, GUI via Tkinter, JSON logging, and graphical display using Matplotlib. |
+| [sending-email-with-smtp-module](https://github.com/alpercevizz/sending-email-with-smtp-module) | Simple Python module to send transactional emails via SMTP. Useful for integrating email alerts into automation scripts. |
 | More coming soon... | 🚧 Stay tuned as I add AI-Observability and multi-cloud automation projects! |
 
 ---
