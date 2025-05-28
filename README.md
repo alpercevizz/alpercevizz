@@ -28,6 +28,27 @@ Welcome to my GitHub profile! I’m passionate about building scalable, observab
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpercevizz&layout=compact&hide_border=true&theme=default)
 
+---
+
+---
+
+### 🚀 Career Focus: Cloud + Automation + AI Observability
+
+I’m on a mission to master the intersection of **Cloud Infrastructure**, **Automation**, and **AI-powered Observability**.  
+With a solid foundation in AWS and Terraform, I aim to build resilient systems that are **automated, observable, and smart**.
+
+🌐 **Cloud Platforms:**  
+- ✅ AWS Certified Cloud Practitioner (CLF-C02)  
+- 🧠 Preparing for AWS Certified Solutions Architect – Associate (SAA-C03)  
+- ✅ Azure Fundamentals (AZ-900)
+
+⚙️ **Automation Tools:** Terraform, Bash, Python (in progress)  
+📈 **Observability Interest:** AI-based monitoring, anomaly detection, metrics/log analysis  
+🧠 **Next Step:** Merging cloud-native tooling with AI for proactive system insights
+
+> “I believe the future of cloud engineering lies in intelligent, self-healing infrastructure.”
+
+
 
 ## 🎯 Career Goal
 
