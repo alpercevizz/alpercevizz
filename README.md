@@ -6,6 +6,29 @@ Welcome to my GitHub profile! I’m passionate about building scalable, observab
 
 ---
 
+### 🧠 Skills & Tools
+
+**Cloud Platforms:**  
+AWS (CLF-C02 Certified) · AWS EC2 · AWS IAM · VPC · Route 53 · Azure Fundamentals (AZ-900)
+
+**Automation:**  
+Terraform · Bash · Infrastructure as Code (IaC) Basics
+
+**Dev Tools:**  
+Git · GitHub · Linux · NGINX · SMTP · Visual Studio Code
+
+**Concepts:**  
+Cloud Free Tier Optimization · Clean Deployment Practices · Cloud Cost Awareness
+
+### 🚀 Currently Exploring
+
+- AWS Solutions Architect Associate (SAA-C03)
+- AI-based Observability Tools
+- Advanced Terraform Modules
+- Intelligent Monitoring Systems
+- DevOps Pipelines with Terraform & GitHub Actions
+
+
 ## 🧠 Areas of Focus
 
 - ☁️ **Cloud Infrastructure**: AWS (SAA-C03) & Azure
@@ -47,7 +70,6 @@ With a solid foundation in AWS and Terraform, I aim to build resilient systems t
 🧠 **Next Step:** Merging cloud-native tooling with AI for proactive system insights
 
 > “I believe the future of cloud engineering lies in intelligent, self-healing infrastructure.”
-
 
 
 ## 🎯 Career Goal
