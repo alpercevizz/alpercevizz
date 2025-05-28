@@ -39,7 +39,7 @@ To design and maintain **resilient, automated, and AI-observable** cloud archite
 
 ## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alpercevizz/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alper-ceviz-410b12110/)
 - 🌍 [GitHub](https://github.com/alpercevizz)
 
 ---
