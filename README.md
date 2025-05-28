@@ -6,6 +6,12 @@ Welcome to my GitHub profile! I’m passionate about building scalable, observab
 
 ---
 
+## 📜 Certifications
+
+- [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=flat-square&logo=amazonaws&logoColor=white)]([https://www.credly.com/](https://www.credly.com/earner/earned/badge/d967c61b-2824-4ebe-bc10-e8db33f43454))
+- [![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-blue?style=flat-square&logo=microsoftazure&logoColor=white)]([https://www.credly.com/](https://www.credly.com/earner/earned/badge/7e8b011e-cb2d-41fb-94ee-a3846d104e95))
+
+
 ### 🧠 Skills & Tools
 
 **Cloud Platforms:**  
