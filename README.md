@@ -22,6 +22,13 @@ Welcome to my GitHub profile! I’m passionate about building scalable, observab
 
 ---
 
+## 📊 GitHub Stats
+
+![Alper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alpercevizz&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpercevizz&layout=compact&hide_border=true&theme=default)
+
+
 ## 🎯 Career Goal
 
 To design and maintain **resilient, automated, and AI-observable** cloud architectures that empower teams to scale with confidence and clarity.
